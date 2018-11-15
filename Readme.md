@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/TreeMapRangeColorizerSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/TreeMapRangeColorizerSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to color tree map items using the Range Colorizer
 
 
